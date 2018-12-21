@@ -19,5 +19,9 @@
   "homepage": "https://github.com/grzegorzgebala/gifSearch#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
-  }
+  },
+  "permissions": [
+    "http://www.google.com/",
+    "https://www.google.com/"
+  ]
 }
